@@ -7,13 +7,14 @@ html {
 }
 
 .pro-box{
-	width: 500px;
+	width: 700px;
 	height:900px;
 	background: rgba(0,0,0,0.1);
 	margin:0 auto;
 	padding:10px;
 	color:white;
 	text-align: center;
+	border-radius: 25px;
 }
 .about-sub{
 	display: none;
@@ -23,17 +24,22 @@ h1{
 	text-align: center;
 	letter-spacing: 5px;
 	color:white;
+	font-size:60px;
+	font-family: cursive, sans-serif;
 }
 
 h2{
 	text-align: center;
 	letter-spacing: 1px;
-	color:green;
+	color:white;
+	font-family:Arial;
 }
+
 li{
-	color:black;
+	color:lightgoldenrodyellow;
 	font-size: 30px;
 	font-family: sans-serif;
+
 }
 .line-break{
 	margin:0 auto;
@@ -45,16 +51,19 @@ li{
 	height:42px;
 }
 .social-icons{
+	margin-top: 50px;
 	text-align: center;
 	margin-bottom: 500px;
 	text-shadow: 1px 1px 1px #ccc;
     font-size: 3em;
+	color:wheat;
 }
 
 
 .topnav {
     background-color: #268;
     overflow: hidden;
+	height:65px;
 }
 
 /* Style the links inside the navigation bar */
@@ -77,4 +86,3 @@ li{
 .topnav a.active {
     background-color: #4CAF50;
     color: white;
-
