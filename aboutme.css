@@ -19,8 +19,14 @@ h1{
 	font-family: sans-serif;
 }
 .paragraph{
-  margin-left: 800px;
-  margin-right:800px;
+width: 700px;
+height:600px;
+background: rgba(0,0,0,0.5);
+margin:0 auto;
+padding:5px;
+color:white;
+
+border-radius: 25px;
 }
 
 p{
