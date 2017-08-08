@@ -18,6 +18,10 @@ h1{
 	text-align: center;
 	font-family: sans-serif;
 }
+.paragraph{
+  margin-left: 800px;
+  margin-right:800px;
+}
 
 p{
 	color:white;
