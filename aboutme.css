@@ -1,7 +1,9 @@
 html{
   background-image: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=3457c65cf359e0aee946d980aa8b9508");
   height:600px;
-  background-size:cover;
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 
 h1{
