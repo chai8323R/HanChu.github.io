@@ -1,0 +1,74 @@
+html{
+  background-image: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=3457c65cf359e0aee946d980aa8b9508");
+  height:600px;
+  background-size:cover;
+}
+
+h1{
+	text-align: center;
+}
+
+.naslov{
+  margin: 50px 0px 0px 20px;
+  color:white;
+}
+
+.skills{
+	color:white;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+p{
+	color:white;
+    font-size:1.4em;
+    text-align: center;
+}
+
+
+.lista{
+  font-size: 1.5em;
+  color:white;
+}
+
+.pic{
+ height:250px;
+  margin-top: 15%;
+  border-radius:50%;
+}
+
+.selfie{
+	broder-radius:50%;
+	text-align: center;
+}
+
+.pro-pic{
+	height:42px;
+}
+
+.topnav {
+    background-color: #268;
+    overflow: hidden;
+	height:65px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
