@@ -1,5 +1,5 @@
 html{
-  background-image: url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=3457c65cf359e0aee946d980aa8b9508");
+  background-image: url("https://static1.squarespace.com/static/561f056ee4b06137119de335/t/561f2d37e4b048525fcccc49/1444883767161/background-wood.jpg-w1200.jpg");
   height:600px;
   background-repeat: no-repeat;
     background-attachment: fixed;
@@ -23,11 +23,10 @@ h1{
 .paragraph{
 width: 700px;
 height:600px;
-background: rgba(0,0,0,0.5);
+background: rgba(0,0,0,0.3);
 margin:0 auto;
 padding:5px;
 color:white;
-
 border-radius: 25px;
 }
 
@@ -38,9 +37,9 @@ p{
 }
 
 
-.lista{
+.skills li{
   font-size: 1.5em;
-  color:white;
+  color:#31c4b5;
 }
 
 .pic{
@@ -50,7 +49,8 @@ p{
 }
 
 .selfie{
-	broder-radius:50%;
+  margin-top:60px;
+	border-radius:25px;
 	text-align: center;
 }
 
@@ -59,7 +59,7 @@ p{
 }
 
 .topnav {
-    background-color: #268;
+    background-color: rgba(0,0,0,0.5);
     overflow: hidden;
 	height:65px;
 }
